@@ -29,7 +29,7 @@ function App() {
   }
   return (
     <div>
-      <h3>Pizzaria 2f</h3>
+      <h3>Pizzaria do gui 2f</h3>
       <img src= {poke} style={{width:200, height:100}} />
       <Formulario sombra="Digite seu nome..." />
       <Formulario sombra="Digite seu email..." />
