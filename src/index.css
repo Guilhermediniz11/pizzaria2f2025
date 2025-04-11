@@ -27,8 +27,9 @@ body {
   display: flex;
   place-items: start;
   min-width: 320px;
-  min-height: 100vh;~
-  background-color: aliceblue;
+  min-height: 100vh;
+  font-size: 20px;
+  background-color: violet;
   color: aqua;
 }
 
